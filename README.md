@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
+<img src="./frontend/src/assets/logo.svg" width="250px" /><br>
 </h4>
 
 ---
