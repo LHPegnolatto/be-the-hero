@@ -18,7 +18,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🦸‍♂️ Projeto
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
+<b>Be the Hero</b> é um projeto que visa ajudar heróis a encontrarem casos de ONGs para ajudarem, de maneira <b>financeira</b>, estas a pôr seu trabalho em ação.
 
 ### :mortar_board: Quem ministrou?
 
